@@ -16,7 +16,7 @@
             {{ isset($product) ? 'SỬA SẢN PHẨM' : 'THÊM SẢN PHẨM' }}
         </h2>
 
-        <!-- Hiển thị thông báo nếu có -->
+        <!--- Hiển thị thông báo nếu có --->
         @if(session('success'))
         <div class="alert alert-success">{{ session('success') }}</div>
         @endif
