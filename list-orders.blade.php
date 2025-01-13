@@ -1,4 +1,4 @@
-@extends('admin.dashboard') <!-- Layout admin của bạn -->
+@extends('admin.dashboard') <!--- Layout admin của bạn --->
 
 @section('content')
     <div class="container mt-5">
