@@ -15,7 +15,7 @@
             {{ isset($article) ? 'SỬA BÀI VIẾT' : 'THÊM BÀI VIẾT' }}
         </h2>
 
-        <!-- Hiển thị thông báo nếu có -->
+        <!--- Hiển thị thông báo nếu có --->
         @if(session('success'))
         <div class="alert alert-success">{{ session('success') }}</div>
         @endif
