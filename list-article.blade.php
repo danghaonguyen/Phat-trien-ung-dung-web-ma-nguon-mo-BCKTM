@@ -23,7 +23,7 @@
         </div>
     </form>
 
-    <!-- Danh sách bài viết -->
+    <!--- Danh sách bài viết --->
     <table class="table table-bordered">
         <thead>
             <tr>
