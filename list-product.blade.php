@@ -12,7 +12,7 @@
     </div>
     @endif
 
-    <!-- Form tìm kiếm -->
+    <!--- Form tìm kiếm --->
     <h4 class="breadcrumb-item active" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold;">Tìm kiếm sản phẩm</h4>
     <form action="{{ route('admin.list-product') }}" method="GET" class="mb-4">
         <div class="row">
