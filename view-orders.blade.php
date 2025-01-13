@@ -46,7 +46,7 @@
     </div> 
 </div>
 
-    <!-- Hành động duyệt và hủy đơn hàng -->
+    <!--- Hành động duyệt và hủy đơn hàng --->
     <div class="row">
         <div class="col-md-12 d-flex justify-content-end">
             @if ($order->status == 'pending')
