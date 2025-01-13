@@ -13,7 +13,7 @@
     </div>
 </div>
 
-<!-- Chart.js - Biểu đồ -->
+<!--- Chart.js - Biểu đồ --->
 <script>
         var ctx = document.getElementById('revenueChart').getContext('2d');
 
